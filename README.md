@@ -1,6 +1,6 @@
 # py
 
-Python modules I common reuse among assignments/projects.
+Python modules that I reuse among assignments/projects.
 
 ## Run tests
 
